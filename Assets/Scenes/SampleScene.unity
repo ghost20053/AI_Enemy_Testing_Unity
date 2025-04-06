@@ -3088,8 +3088,8 @@ MonoBehaviour:
   rayCastOffset: {x: 0, y: 0, z: 0}
   deathScene: SampleScene
   aiDistance: 0
-  hideText: {fileID: 0}
-  stophideText: {fileID: 0}
+  hideText: {fileID: 2030151645}
+  stophideText: {fileID: 746230039}
 --- !u!95 &1507484385
 Animator:
   serializedVersion: 7
